@@ -10,5 +10,5 @@ Predict the percentage of marks of an student based on the number of study hours
 
 ## Task-2 : Prediction using Unsupervised ML
 
-Predict the optimum number of clusters for the Iris dataset and represent visually
+Predict the optimum number of clusters for the Iris dataset and represent visually.
 
